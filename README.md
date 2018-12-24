@@ -1,4 +1,4 @@
-# Seven Essential Services Recruiting Task
+
 
 You ultimate goal will be to create two services, service A and service B, and use a messaging system to connect them to single business process.
 
